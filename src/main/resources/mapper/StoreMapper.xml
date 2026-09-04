@@ -1,0 +1,13 @@
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--
+    mapper标签是最大的父级标签
+    mapper标签有一个必填的属性：namespace，对应要操作的接口全类名
+-->
+<mapper namespace="com.ojbk.mapper.StoreMapper">
+
+
+
+
+</mapper>
